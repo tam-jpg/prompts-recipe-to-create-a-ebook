@@ -12,7 +12,6 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - aplicativo corel draw para pc
 
 ## 🧠 Prompts
