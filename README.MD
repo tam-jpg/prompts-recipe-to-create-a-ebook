@@ -26,11 +26,6 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em JavaScript, listando as principais aplicações com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
