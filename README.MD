@@ -48,7 +48,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 aluna
 
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/tamires_m_t/">
+    <a href="https://www.instagram.com/tm.servicosgraficos/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
